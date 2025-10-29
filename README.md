@@ -4,7 +4,7 @@
 ## Здравствуйте, меня зовут Дмитрий  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </div>
 <div align="center" >
- <a href="https://web.telegram.org/k@DemiusOG"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="120"></a>
+ <a href="https://web.telegram.org/k#@DemiusOG"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="120"></a>
 </div>
 <h3>Обо мне</h3>
 <p>
